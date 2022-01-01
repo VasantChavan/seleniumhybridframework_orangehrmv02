@@ -58,7 +58,7 @@ public class TestBase {
 
 		extentReport.setSystemInfo("Hostnamne", "Local Host");
 		extentReport.setSystemInfo("OS", "Windows");
-		extentReport.setSystemInfo("Browser", "Chrome");
+		extentReport.setSystemInfo("Browser", "Firefox");
 		extentReport.setSystemInfo("TE", "Ravi");
 		extentReport.setSystemInfo("Test Case ", "RT");
 
